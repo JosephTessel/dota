@@ -4,6 +4,7 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+2.1.1 :001 > Steam.apikey = 'F8A6515ED8BDAD4D770A56F0E7E4B342'
 # Ignore bundler config.
 /.bundle
 
